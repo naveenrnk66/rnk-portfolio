@@ -1,8 +1,8 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "portfolio",
   "private": true,
-  "homepage": "https://naveenrnk66.github.io/portfolio",
-  "version": "0.0.0",
+  "homepage": "https://naveenrnk66.github.io/rnk-portfolio",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
