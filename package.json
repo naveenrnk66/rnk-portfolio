@@ -1,6 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
+  "homepage": "https://naveenrnk66.github.io/portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
