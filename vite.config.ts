@@ -7,4 +7,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  // ADD THIS LINE FOR DEPLOYMENT TO GITHUB PAGES OR SIMILAR SUBPATH HOSTING
+  base: '/portfolio/', // <--- IMPORTANT: Replace 'portfolio' with your actual GitHub repository name
 });
