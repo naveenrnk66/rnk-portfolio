@@ -9,4 +9,8 @@ export default defineConfig({
   },
   // ADD THIS LINE FOR DEPLOYMENT TO GITHUB PAGES OR SIMILAR SUBPATH HOSTING
   base: '/portfolio/', // <--- IMPORTANT: Replace 'portfolio' with your actual GitHub repository name
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> dd565b44747003be951373d76ce202595bb626f7
