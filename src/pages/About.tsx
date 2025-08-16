@@ -18,12 +18,12 @@ const About: React.FC<AboutProps> = ({ darkMode }) => {
   ];
 
   const navItems = [
-    { path: '/skills', label: 'Skills' },
-    { path: '/projects', label: 'Projects' },
-    { path: '/gallery', label: 'Gallery' },
-    { path: '/experience', label: 'Experience' },
-    { path: '/education', label: 'Education' },
-    { path: '/contact', label: 'Contact' },
+    { path: '/rnk-portfolio/skills', label: 'Skills' },
+    { path: '/rnk-portfolio/projects', label: 'Projects' },
+    { path: '/rnk-portfolio/gallery', label: 'Gallery' },
+    { path: '/rnk-portfolio/experience', label: 'Experience' },
+    { path: '/rnk-portfolio/education', label: 'Education' },
+    { path: '/rnk-portfolio/contact', label: 'Contact' },
   ];
 
   return (
