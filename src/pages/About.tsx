@@ -60,11 +60,11 @@ const About: React.FC<AboutProps> = ({ darkMode }) => {
                     darkMode ? 'text-gray-300' : 'text-gray-700'
                   }`}
                 >
-                  I'm RAMAYANAPU NAVEEN, a passionate BTech student specializing
-                  in Computer Science with a focus on Data Science & Big Data
-                  Analytics. Currently in my final year at KL University, I'm
-                  driven by the endless possibilities that technology offers to
-                  solve real-world problems.
+                  I'm RAMAYANAPU NAVEEN, a passionate  Btech student passionate 
+                  about solving problems and writing clean, efficient code to build 
+                  applications that are fast, scalable, and easy to maintain. 
+                  Seeking to apply skills to real-world projects and contribute 
+                  to a talented team.
                 </p>
               </div>
 
@@ -77,11 +77,9 @@ const About: React.FC<AboutProps> = ({ darkMode }) => {
                     darkMode ? 'text-gray-300' : 'text-gray-700'
                   }`}
                 >
-                  Aspiring to become a Data Scientist, I aim to leverage my
-                  skills in machine learning and big data analytics to drive
-                  data-driven decision-making in organizations. I'm particularly
-                  interested in developing AI solutions that can make a positive
-                  impact on society.
+                  Aiming to grow as a skilled developer by continuously learning and improving through hands-on experience.
+Passionate about contributing to impactful projects that drive innovation and deliver efficient, scalable solutions.
+Focused on solving real-world challenges with creativity, teamwork, and a strong commitment to excellence.
                 </p>
               </div>
             </motion.div>
