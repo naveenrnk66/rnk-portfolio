@@ -34,9 +34,9 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
     setIsError(false);
 
     // Using your actual EmailJS keys
-    const serviceID = 'service_sx9duu7';
+    const serviceID = 'service_wvl07fi';
     const templateID = 'template_ubmvrs8';
-    const publicKey = 'f72Eo0N6ttaswpUxF'; // This is your Public Key
+    const publicKey = 'OWd63xfuJFRqKYKr8'; // This is your Public Key
 
     if (!window.emailjs) {
       console.error('EmailJS script not loaded. Make sure to include it in your index.html');

@@ -60,14 +60,14 @@ const Home: React.FC<HomeProps> = ({ darkMode }) => {
 
           <div className="flex justify-center space-x-4">
             <motion.a
-              href="https://drive.google.com/file/d/11Q0Se39PuOfMre0v5lE4h02K-pkuoNbj/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1p2RqepORIjdrsDWxuHQGJ1uvCQ2WAbFg/view?usp=sharing"
               download
               className="inline-flex items-center px-6 py-3 rounded-full bg-purple-600 text-white hover:bg-purple-700 transition-colors duration-200"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
               <Download className="w-5 h-5 mr-2" />
-              Download Resume
+              View Resume
             </motion.a>
           </div>
 
